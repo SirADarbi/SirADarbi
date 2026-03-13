@@ -13,16 +13,7 @@
 > Role      : DevOps & Cloud Engineer
 > Experience: 3+ years in production infrastructure
 > Focus     : DevSecOps | IaC | CI/CD | Containers | Observability
-> Location  : Canada (open to remote)
 ```
-
-- Certified Cloud/DevOps Engineer managing production infrastructure across **AWS**, **Azure**, **DigitalOcean**, and **Cloudflare**
-- Cut AWS spending by **50%+** through Reserved Instances, Savings Plans, and eliminating idle resources
-- Built CI/CD pipelines with **Jenkins**, **GitHub Actions**, and **ArgoCD** covering production, staging, mobile, and game builds
-- Replaced CloudWatch monitoring with an open-source stack (**Grafana**, **OpenTelemetry**, **VictoriaMetrics**) -- reduced observability costs by **70%**
-- Created automated pod recovery systems using **Lambda**, **SNS**, and **SSM** -- reduced manual intervention by **~90%**
-- Led EKS upgrades from 1.28 to 1.33 across staging and production with **zero downtime**
-- Infrastructure as Code advocate -- all provisioning managed through **Terraform**
 
 ---
 
@@ -97,9 +88,8 @@
 ## Beyond the Terminal
 
 ```yaml
-background:
-  - B.Sc. Computer Science -- Western Governors University
-  - B.Kin. Human Kinetics -- University of Regina
+education:
+  - B.Sc. Computer Science
 languages:
   - English (Native)
   - Arabic (Native -- all dialects)
@@ -107,7 +97,6 @@ hobbies:
   - Exploring the outdoors
   - Playing Football (soccer)
   - Practicing Muay Thai & Kickboxing
-motto: "Train hard. Deploy harder."
 ```
 
 ---
