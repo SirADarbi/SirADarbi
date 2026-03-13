@@ -18,21 +18,21 @@
 > Name    : Siraj
 > Role    : DevOps & Cloud Engineer
 > Focus   : DevSecOps | IaC | CI/CD | Containers
-> Status  : Automating Everything 🤖
+> Status  : Automating Everything ðŸ¤–
 ```
 
-- 🔧 Designing & automating scalable cloud infrastructure
-- 🛡️ Security-first mindset — **DevSecOps** from pipeline to production
-- ☁️ Multi-cloud: **AWS** · **GCP** · **Azure**
-- 📦 If it can be code, it should be code
-- 🔄 Passionate about CI/CD, GitOps & container orchestration
-- 🌱 Currently levelling up on **Platform Engineering**
+- ðŸ”§ Designing & automating scalable cloud infrastructure
+- ðŸ›¡ï¸ Security-first mindset â€” **DevSecOps** from pipeline to production
+- â˜ï¸ Multi-cloud: **AWS** Â· **GCP** Â· **Azure**
+- ðŸ“¦ If it can be code, it should be code
+- ðŸ”„ Passionate about CI/CD, GitOps & container orchestration
+- ðŸŒ± Currently levelling up on **Platform Engineering**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ðŸ› ï¸ Tech Stack & Tools
 
 **Cloud & Infrastructure**
 
@@ -60,17 +60,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [DevSecOps-app-Project](https://github.com/SirADarbi/DevSecOps-app-Project) | End-to-end DevSecOps pipeline — app deployment with security scanning integrated at every stage | Docker · K8s · GitHub Actions |
-| [DevSecOps-IAC-Project](https://github.com/SirADarbi/DevSecOps-IAC-Project) | Infrastructure as Code companion — provisioning and managing cloud infra with Terraform | Terraform · AWS · HCL |
-| 🔒 *More coming soon...* | | |
+| [DevSecOps-app-Project](https://github.com/SirADarbi/DevSecOps-app-Project) | End-to-end DevSecOps pipeline â€” app deployment with security scanning integrated at every stage | Docker Â· K8s Â· GitHub Actions |
+| [DevSecOps-IAC-Project](https://github.com/SirADarbi/DevSecOps-IAC-Project) | Infrastructure as Code companion â€” provisioning and managing cloud infra with Terraform | Terraform Â· AWS Â· HCL |
+| ðŸ”’ *More coming soon...* | | |
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SirADarbi&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
@@ -83,7 +83,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## ðŸ† GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SirADarbi&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
@@ -91,19 +91,19 @@
 
 ---
 
-## ⚡ Beyond the Terminal
+## âš¡ Beyond the Terminal
 
 ```yaml
 hobbies:
-  - 🌿 Exploring the outdoors
-  - ⚽ Playing Football (soccer)
-  - 🥊 Practicing Muay Thai & Kickboxing
+  - ðŸŒ¿ Exploring the outdoors
+  - âš½ Playing Football (soccer)
+  - ðŸ¥Š Practicing Muay Thai & Kickboxing
 motto: "Train hard. Deploy harder."
 ```
 
 ---
 
-## 📬 Connect
+## ðŸ“¬ Connect
 
 <div align="center">
 
