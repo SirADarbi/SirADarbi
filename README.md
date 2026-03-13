@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+Siraj+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;Infrastructure+as+Code+Enthusiast;Security-First+%7C+DevSecOps;Automating+Everything" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Siraj;DevOps+%26+Cloud+Engineer;Infrastructure+as+Code+Enthusiast;Security-First+%7C+DevSecOps;Automating+Everything" alt="Typing SVG" />
 
 <br/>
 
@@ -18,21 +18,21 @@
 > Name    : Siraj
 > Role    : DevOps & Cloud Engineer
 > Focus   : DevSecOps | IaC | CI/CD | Containers
-> Status  : Automating Everything 🤖
+> Status  : Automating Everything
 ```
 
-- 🔧 Designing & automating scalable cloud infrastructure
-- 🛡️ Security-first mindset — **DevSecOps** from pipeline to production
-- ☁️ Multi-cloud: **AWS** · **GCP** · **Azure**
-- 📦 If it can be code, it should be code
-- 🔄 Passionate about CI/CD, GitOps & container orchestration
-- 🌱 Currently levelling up on **Platform Engineering**
+- Designing & automating scalable cloud infrastructure
+- Security-first mindset -- **DevSecOps** from pipeline to production
+- Multi-cloud: **AWS** | **GCP** | **Azure**
+- If it can be code, it should be code
+- Passionate about CI/CD, GitOps & container orchestration
+- Currently levelling up on **Platform Engineering**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Cloud & Infrastructure**
 
@@ -60,50 +60,29 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [DevSecOps-app-Project](https://github.com/SirADarbi/DevSecOps-app-Project) | End-to-end DevSecOps pipeline — app deployment with security scanning integrated at every stage | Docker · K8s · GitHub Actions |
-| [DevSecOps-IAC-Project](https://github.com/SirADarbi/DevSecOps-IAC-Project) | Infrastructure as Code companion — provisioning and managing cloud infra with Terraform | Terraform · AWS · HCL |
-| 🔒 *More coming soon...* | | |
+| [DevSecOps-app-Project](https://github.com/SirADarbi/DevSecOps-app-Project) | End-to-end DevSecOps pipeline -- app deployment with security scanning integrated at every stage | Docker, K8s, GitHub Actions |
+| [DevSecOps-IAC-Project](https://github.com/SirADarbi/DevSecOps-IAC-Project) | Infrastructure as Code companion -- provisioning and managing cloud infra with Terraform | Terraform, AWS, HCL |
+| *More coming soon...* | | |
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirADarbi&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirADarbi&theme=chartreuse-dark&hide_border=true&layout=compact" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SirADarbi&theme=chartreuse-dark&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SirADarbi&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-## ⚡ Beyond the Terminal
+## Beyond the Terminal
 
 ```yaml
 hobbies:
-  - 🌿 Exploring the outdoors
-  - ⚽ Playing Football (soccer)
-  - 🥊 Practicing Muay Thai & Kickboxing
+  - Exploring the outdoors
+  - Playing Football (soccer)
+  - Practicing Muay Thai & Kickboxing
 motto: "Train hard. Deploy harder."
 ```
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
