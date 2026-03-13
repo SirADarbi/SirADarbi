@@ -10,8 +10,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
 ## `$ whoami`
 
 ```bash
@@ -27,8 +25,6 @@
 - If it can be code, it should be code
 - Passionate about CI/CD, GitOps & container orchestration
 - Currently levelling up on **Platform Engineering**
-
-<br clear="right"/>
 
 ---
 
